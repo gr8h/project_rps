@@ -13,8 +13,16 @@ The project is about building rock, paper, scissors game is a simple two-player 
 - Mehdi Rhouzlane | newway#1220
 
 ## Project status
+- In-Development
+
 ## Lesson learned
+- Group Transactions
+- ScratchVar
+- Send Txn from smart contract
+
 ## Challenges
+- Writing test-cases
+- Deploying 
 
 ## Setup
 - python3 -m venv venv
