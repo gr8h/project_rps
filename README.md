@@ -8,13 +8,6 @@ The project is about building rock, paper, scissors game is a simple two-player 
 - Ensuring the privacy of the first move by hiding it until the second move is made or the reveal step occurs.
 - Allowing multiple players to play the game simultaneously while ensuring that the rules are enforced and that the outcome of each game is determined correctly
 
-## Participants
-- Hesham Shabanah | gr8h#5489
-- Mehdi Rhouzlane | newway#1220
-
-## Project status
-- In-Development
-
 ## Lesson learned
 - Group Transactions
 - ScratchVar
@@ -24,7 +17,16 @@ The project is about building rock, paper, scissors game is a simple two-player 
 - Writing test-cases
 - Deploying 
 
+## Next
+- Uses assest instead of Algo
+- Test-cases
+- Frontend
+
 ## Setup
 - python3 -m venv venv
 - source ./venv/bin/activate
 - pip install -r requirements.txt
+
+## Participants
+- Hesham Shabanah | gr8h#5489
+- Mehdi Rhouzlane | newway#1220
